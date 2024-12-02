@@ -70,10 +70,11 @@ Gunakan perintah berikut di terminal:
 streamlit run app.py
 ```
 
-Untuk mengakses link streamlit online untuk mengecek prototype, bisa akses link berikut: [Streamlit Prototype](#)
+Untuk mengakses link streamlit online untuk mengecek prototype, bisa akses link berikut: [Streamlit Prototype](https://wendistudentanalysis.streamlit.app/)
 
 ### Dashboard
-Akses link tableau dalam link berikut: [Tableau Dashboard](#)
+Akses link tableau dalam link berikut: [Tableau Dashboard](https://public.tableau.com/views/StudentPerformanceAnalysis_17331387560340/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Temuan Utama:
 ### Faktor Utama untuk Dropout:
