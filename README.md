@@ -1,4 +1,4 @@
-![Screenshot 2024-12-02 at 11 38 45 PM](https://github.com/user-attachments/assets/187182b7-7f19-465a-a3a1-8bb2bd5323f7)# Latar Belakang Masalah
+# Latar Belakang Masalah
 Jaya Jaya Institut menghadapi tingkat dropout siswa yang tinggi, yang dapat berdampak buruk pada reputasi institusi, efektivitas pembelajaran, dan pendapatan jangka panjang. Penurunan jumlah siswa yang menyelesaikan program studi juga mencerminkan kurangnya keberhasilan institusi dalam mendukung siswa untuk mencapai hasil akademik yang optimal.
 
 Tantangan utama adalah mendeteksi siswa yang berisiko dropout sedini mungkin agar mereka dapat diberi bimbingan atau dukungan khusus. Pendekatan ini membutuhkan pemahaman yang mendalam tentang pola dan faktor yang berkontribusi terhadap kemungkinan siswa melakukan dropout.
@@ -75,7 +75,7 @@ Untuk mengakses link streamlit online untuk mengecek prototype, bisa akses link 
 ### Dashboard
 Akses link tableau dalam link berikut: [Tableau Dashboard](https://public.tableau.com/views/StudentPerformanceAnalysis_17331387560340/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Screenshot 2024-12-02 at 11 38 45 PM](https://github.com/user-attachments/assets/c23e59c3-9a9a-400a-a8ef-c0e4b307a1db)
+![Screenshot 2024-12-02 at 11 38 45 PM](https://github.com/user-attachments/assets/187182b7-7f19-465a-a3a1-8bb2bd5323f7)
 
 
 ## Temuan Utama:
