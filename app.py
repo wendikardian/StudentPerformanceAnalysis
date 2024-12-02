@@ -193,7 +193,7 @@ with st.expander("View the Raw Data"):
 if st.button('Predict'):
     new_data = additional_preprocessing(data=data)
     # export new_data
-    new_data.to_csv("model_result.csv", index=False)
+    # new_data.to_csv("model_result.csv", index=False)
     with st.expander("View the Preprocessed Data"):
         st.dataframe(data=new_data, width=800, height=10)
     st.write("Student Performance Prediction: {}".format(prediction(new_data)))
