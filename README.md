@@ -76,9 +76,13 @@ Akses link tableau dalam link berikut: [Tableau Dashboard](https://public.tablea
 
 ![Screenshot 2024-12-02 at 11 38 45 PM](https://github.com/user-attachments/assets/187182b7-7f19-465a-a3a1-8bb2bd5323f7)
 
-### Menjalankan Sistem Machine Learning
+## Menjalankan Sistem Machine Learning
+
+![Screenshot 2024-12-04 at 12 34 30 PM](https://github.com/user-attachments/assets/d1f1ae8c-7207-4649-9ed2-fec62e49b894)
 
 Untuk mengakses link streamlit online untuk mengecek prototype, bisa akses link berikut: [Streamlit Prototype](https://wendistudentanalysis.streamlit.app/)
+
+
 
 
 ## Temuan Utama:
