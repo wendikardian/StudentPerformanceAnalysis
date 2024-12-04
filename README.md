@@ -70,12 +70,15 @@ Gunakan perintah berikut di terminal:
 streamlit run app.py
 ```
 
-Untuk mengakses link streamlit online untuk mengecek prototype, bisa akses link berikut: [Streamlit Prototype](https://wendistudentanalysis.streamlit.app/)
 
 ### Dashboard
 Akses link tableau dalam link berikut: [Tableau Dashboard](https://public.tableau.com/views/StudentPerformanceAnalysis_17331387560340/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Screenshot 2024-12-02 at 11 38 45 PM](https://github.com/user-attachments/assets/187182b7-7f19-465a-a3a1-8bb2bd5323f7)
+
+### Menjalankan Sistem Machine Learning
+
+Untuk mengakses link streamlit online untuk mengecek prototype, bisa akses link berikut: [Streamlit Prototype](https://wendistudentanalysis.streamlit.app/)
 
 
 ## Temuan Utama:
